@@ -1,0 +1,28 @@
+name: Matthew J. Payne
+favicon: null
+layout_spectrum: 0.05640283436514437
+typography_spectrum: 0.9594713558908552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.032390199368819594
+  lightness: 0.06005835928954184
+  saturation: 0.5902459346689284
+  rhythmicContrast: 0.05234872060827911
+purpose: []
